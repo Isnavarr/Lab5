@@ -4,9 +4,8 @@
 - Issac Navarro
 
 ## Part 1:
-
-LINK TO YOUR PUBLISHED SITE
+https://isnavarr.github.io/Lab5/
 
 ## Part 2:
 
-LINK TO YOUR PART 2 REPOSITORY
+https://github.com/Isnavarr/github-actions-for-ci/issues/8
